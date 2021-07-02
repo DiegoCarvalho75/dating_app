@@ -1,0 +1,29 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/.dart_tool": true,
+        "**/.flutter-plugins": true,
+        "**/.flutter-plugins-dependencies": true,
+        "**/.gitignore": true,
+        "**/.idea": true,
+        "**/.metadata": true,
+        "**/.packages": true,
+        "**/*.iml": true,
+        "**/debug.log": true,
+        "**/ios": true,
+        "**/pubspec.lock": true,
+        "**/README.md": true,
+        "**/test": true,
+        "**/android": true,
+        "**/.vscode": true,
+        "**/web": true,
+        "**/build": true,
+        "**/windows": true,
+        "**/analysis_options.yaml": true
+    },
+    "explorerExclude.backup": null
+}
